@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
             <p><strong>Nama:</strong> [Muhammad Irfan Prabowo]</p>
             <p><strong>Nama:</strong> [Universitas Buana Perjuangan Karawang]</p>
             <p><strong>Program:</strong> Cloud Computing - MSIB Dicoding</p>
-            <p><strong>Status Server:</strong> Aktif dan Berjalan Lancar</p>
+            <p><strong>Status Server:</strong> Aktif dan Berjalan Lancar ok</p>
         </div>
     `);
 });
